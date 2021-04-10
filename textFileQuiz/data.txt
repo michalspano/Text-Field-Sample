@@ -1,0 +1,1 @@
+["Švédsko", "Slovensko", "Nórsko", "Česko", "Nemecko", "Rusko", "Maďarsko", "Francúzsko", "Poľsko", "Fínsko"]
